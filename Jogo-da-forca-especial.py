@@ -47,5 +47,5 @@ def jogo_da_forca():
     else:
         print("\nPoxa, acabaram as tentativas. \nMas o pedido ainda está de pé hein! :D")
 
-# Chama a função para iniciar o jogo
+# chamando a função pra iniciar o joguin
 jogo_da_forca()
