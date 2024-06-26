@@ -4,8 +4,10 @@ import random
 def jogo_da_forca():
     frases = [
         "BORA FICAR DE CONCHINHA",
-        "NAMORA COMIGO?",
-        "NOS DOIS E UM GATINHO"
+        "NAMORA COMIGO",
+        "NOS DOIS E UM GATINHO",
+        "EU E TU JUNTOS",
+        "BE MINE"
     ]
     
     # escolhe as frases aleatoriamente
